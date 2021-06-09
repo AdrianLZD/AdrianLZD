@@ -20,8 +20,8 @@ I'm Adrian Lozano, a Computer Science engineer, creative coder who is always loo
 <a href="https://github.com/AdrianLZD/Slime-Pattern-Formation">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=adrianlzd&repo=Slime-Pattern-Formation">
 </a>
-<a href="https://github.com/AdrianLZD/CFGArithmeticExpressions">
-    <img src= "https://github-readme-stats.vercel.app/api/pin/?username=adrianlzd&repo=CFGArithmeticExpressions">
+<a href="https://github.com/AdrianLZD/CityTraffic">
+    <img src= "https://github-readme-stats.vercel.app/api/pin/?username=adrianlzd&repo=CityTraffic">
 </a>
 <a href="https://github.com/AdrianLZD/LetsTalkInC">
     <img src= "https://github-readme-stats.vercel.app/api/pin/?username=adrianlzd&repo=LetsTalkInC">
